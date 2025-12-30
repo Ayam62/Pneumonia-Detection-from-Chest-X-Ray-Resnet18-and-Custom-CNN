@@ -2,7 +2,7 @@
 
 A deep learning project for binary classification of chest X-ray images to detect pneumonia using both a Custom CNN and a fine-tuned ResNet-18 model.
 
-# This detailed report contains all the visualizations and necessary explainations for this project.
+## Report for Visualization and Explaination 
 [REPORT.pdf](https://github.com/user-attachments/files/24377291/REPORT.pdf)
 
 ##  Overview
